@@ -1,0 +1,38 @@
+body{
+    background-color: blue;
+}
+
+
+* {
+    text-decoration: none;
+
+}
+
+.drop{
+    
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    position: relative;
+    font-family: sans-serif;
+    font-weight: bold;
+    background-color: rgb(27, 233, 37);
+} 
+
+.drop a {
+    text-decoration: none;
+    float: left;
+
+}
+
+h1{
+    background-color: red;
+    color: yellow;
+    font-family: sans-serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.moi{
+    list-style-type: none;
+}
